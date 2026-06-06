@@ -1,0 +1,9 @@
+/workspaces/javaproject/LectureConceptAnalyzer/src/main/java/com/education/analyzer/controller/AppController.java
+/workspaces/javaproject/LectureConceptAnalyzer/src/main/java/com/education/analyzer/controller/MainApp.java
+/workspaces/javaproject/LectureConceptAnalyzer/src/main/java/com/education/analyzer/controller/model/StudentSession.java
+/workspaces/javaproject/LectureConceptAnalyzer/src/main/java/com/education/analyzer/controller/model/Topic.java
+/workspaces/javaproject/LectureConceptAnalyzer/src/main/java/com/education/analyzer/controller/repository/SessionRepository.java
+/workspaces/javaproject/LectureConceptAnalyzer/src/main/java/com/education/analyzer/controller/service/FeedbackService.java
+/workspaces/javaproject/LectureConceptAnalyzer/src/main/java/com/education/analyzer/controller/service/PDFAnalysisService.java
+/workspaces/javaproject/LectureConceptAnalyzer/src/main/java/com/education/analyzer/controller/service/RevisionEngine.java
+/workspaces/javaproject/LectureConceptAnalyzer/src/main/java/com/education/analyzer/controller/util/ReportGenerator.java
